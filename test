@@ -1,12 +1,11 @@
 <DOCTYPE! html>
+<html>
 <head>
-  <p>
-    <style color:"green"><\style>
-  </P>
-  Hello world
-  <\head>
+    <title> Hello world </title>
+  </head>
  <body>
   <p>
-    TEST
-  <\p>
-  
+    <style color:"green"></style>
+  </P>
+  </body>
+ </html> 
