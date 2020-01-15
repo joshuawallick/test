@@ -7,7 +7,6 @@
     size: 25 px; color:green;}
     </style>
   </head>
-  <title>
     <h1> Welcome to the Soda Supply! </h1>
  <body>
 <p style="background-color:Tomato;">Lorem ipsum...</p>
