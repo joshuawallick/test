@@ -4,8 +4,7 @@
     <title> Hello world </title>
     <style>
     h1 {
-    color:"green"}
-
+    color:green;}
     </style>
   </head>
  <body>
