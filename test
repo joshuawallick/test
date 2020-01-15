@@ -2,10 +2,15 @@
 <html>
 <head>
     <title> Hello world </title>
+    <style>
+    h1 {
+    color:"green"}
+
+    </style>
   </head>
  <body>
   <p>
-    <style color:"green"></style>
-  </P>
+<h1> this is whatever </h1>    
+  </p>
   </body>
  </html> 
