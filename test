@@ -10,6 +10,6 @@
   <title>
     <h1> Welcome to the Soda Supply! </h1>
  <body>
-<h1> lorem </h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
   </body>
  </html> 
