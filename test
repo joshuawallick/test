@@ -1,10 +1,10 @@
 <DOCTYPE! html>
 <html>
 <head>
-    <title> Hello world </title>
+    <title> Soda supply </title>
     <style>
     h1 {
-    color:green;}
+    size: 25 px; color:green;}
     </style>
   </head>
  <body>
